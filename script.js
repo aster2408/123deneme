@@ -103,7 +103,7 @@ function movePlayer(dx, dy) {
 // Show win content
 function showWinContent() {
     // Redirect to another HTML page (e.g., valentine-success.html)
-    window.location.href = "/Users/eceonmus/Desktop/Valentines Day VSC/valentine-success.html";
+    window.location.href = "valentine-success.html";
 }
 
 // Show game over screen
